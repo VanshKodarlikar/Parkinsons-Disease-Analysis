@@ -16,7 +16,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 
-Usage
+Usage: 
 Load the dataset.
 Preprocess the data.
 Visualize the data.
